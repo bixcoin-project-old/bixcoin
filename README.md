@@ -13,7 +13,7 @@ Total coins to be mined = 252,240,000
 
 Rewards = 50
 
-Permined = 42m
+Premined = 42m
 
 
 License
